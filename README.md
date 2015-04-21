@@ -45,3 +45,8 @@ When you find that file, note the folder it's in.  That's the same folder you wi
 Then open the file **```keyboardNav.js```**.  Again, paste the line from the bottom of **```paste.js```** (in this project) at the bottom of the **```keyboardNav.js```** file and save.
 
 **Then just restart Chrome!**
+
+
+## Contact:
+
+If you wanna give me props, or just call me fat, feel free to email me @ muhshitluhrd@gmail.com
