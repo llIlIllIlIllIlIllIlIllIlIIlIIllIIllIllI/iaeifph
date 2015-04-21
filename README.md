@@ -1,5 +1,5 @@
 # iaeifph
-It's about ethics in FPH
+It's about ethics in... something.
 
 # installation
 \**words in <>'s are placeholders and you must replace them accordingly.*
