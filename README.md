@@ -29,7 +29,7 @@ and the folder should open in a new window.  Once you are there, open the folder
 ## Windows:
 If you're on a windows machine, open up the program "command line" and enter:
 
-```C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\Default\Extensions```
+```examine C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\Default\Extensions```
 
 Using the searchbar in the window type in **```manifest.json```**.  Open each one until you find one that has this line:
 
