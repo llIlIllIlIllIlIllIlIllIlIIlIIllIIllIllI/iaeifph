@@ -39,7 +39,7 @@ or
 
 ```"name": "Reddit Enhancement Suite",```
 
-When you find that file, not the folder it's in.  That's the same folder you will find **```/modules/keyboardNav.js```**
+When you find that file, note the folder it's in.  That's the same folder you will find **```/modules/keyboardNav.js```**
 
 ## Any OS:
 Then open the file **```keyboardNav.js```**.  Again, paste the line at the bottom of **```paste.js```** (in this project) at the bottom of the **```keyboardNav.js```** file and save.
