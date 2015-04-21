@@ -46,6 +46,10 @@ Then open the file **```keyboardNav.js```**.  Again, paste the line from the bot
 
 **Then just restart Chrome!**
 
+# Usage:
+**Just go to THE SUB and hit the 'z' key and relax**
+If you're not in THE SUB, the 'z' key will behave as it always has.
+It's randomized to make it hard to detect.
 
 ## Contact:
 
