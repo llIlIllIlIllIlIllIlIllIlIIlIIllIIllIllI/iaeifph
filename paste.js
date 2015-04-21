@@ -11,8 +11,7 @@
 //  and the folder should open in a new window.  Once you are there, open the folder 'modules'
 //  and then open the file 'keyboardNav.js'.
 //  Again, paste what you see below to the bottom of the keyboardNav.js file and save.
-//  In you Chrome extension settings, turn Reddit Enhancement Suite off and on, then reload reddit.
-//  Or, you can just quit Chrome.
+//  Then just restart Chrome...
 
 a=modules.keyboardNav;
 o=a.downVote;
